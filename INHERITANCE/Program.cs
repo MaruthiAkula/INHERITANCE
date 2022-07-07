@@ -27,7 +27,7 @@ namespace INHERITANCE
        public string studentqualification;
         public void printalldetails()
         {
-            Console.WriteLine("father Name is {0},Student Name is {1}", fathername, studentname);
+            Console.WriteLine("father Name is {0},Studentt Name is {1}", fathername, studentname);
             Console.WriteLine("father occupation is {0},Student qualification is {1}", fatheroccupation, studentqualification);
             Console.WriteLine("father Num is {0},Student Num is {1}", fathernum, studentnum);
 
